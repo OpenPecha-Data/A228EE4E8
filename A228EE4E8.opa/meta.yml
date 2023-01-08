@@ -1,0 +1,19 @@
+id: A228EE4E8
+title: The Mountain Smoke Offering (Riwo Sangchö)
+type: translation
+pechas:
+- I229A0664
+- IFD0CB0AB
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:57:17.696178
+  last_modified_at: 2023-01-04 12:57:17.696195
+  collections:
+  - Lhatsün Namkha Jigme Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I229A0664/BF8B: 5E55
+  IFD0CB0AB/0522: 5E55
